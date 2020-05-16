@@ -18,7 +18,7 @@
   - `ctrl + shift + p` 開啟「命令選擇區」，輸入 `settngs json` 點選「開啟設定 (JSON)」。
 
 ## 字型
-- 為了確保教學上的一致性，請學員下載並安裝 [Victor Mono](https://rubjo.github.io/victor-mono/) 字型。
+- 為了確保教學上的一致性，請學員下載並安裝 [Jetbrain Mono](https://www.jetbrains.com/lp/mono/) 字型。
 - 字型安裝請選擇 TTF。
 - Windows 安裝字型：下載字型檔後解壓縮並全選所有字型右鍵選「安裝」。
 - [macOS 安裝字型](https://support.apple.com/zh-tw/HT201749)。

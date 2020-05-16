@@ -2,7 +2,7 @@
   "editor.autoClosingBrackets": "always",
   "editor.autoClosingQuotes": "always",
   "editor.definitionLinkOpensInPeek": true,
-  "editor.fontFamily": "'Victor Mono', Consolas, 'Courier New', 微軟正黑體, monospace",
+  "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', 微軟正黑體, monospace",
   "editor.minimap.renderCharacters": false,
   "editor.renameOnType": true,
   "editor.renderControlCharacters": true,
