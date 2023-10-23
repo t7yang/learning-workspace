@@ -1,15 +1,15 @@
 {
   "recommendations": [
     "aliariff.auto-add-brackets",
-    "coenraads.bracket-pair-colorizer-2",
-    "t7yang.dark-lavender",
-    "usernamehw.errorlens",
-    "ecmel.vscode-html-css",
-    "t7yang.hyper-javascript-snippets",
-    "ms-vsliveshare.vsliveshare",
-    "pkief.material-icon-theme",
     "christian-kohler.path-intellisense",
+    "coenraads.bracket-pair-colorizer-2",
+    "ecmel.vscode-html-css",
     "esbenp.prettier-vscode",
-    "ms-vscode.sublime-keybindings"
+    "ms-vscode.sublime-keybindings",
+    "ms-vsliveshare.vsliveshare",
+    "ritwickdey.LiveServer",
+    "t7yang.dark-lavender",
+    "t7yang.hyper-javascript-snippets",
+    "usernamehw.errorlens"
   ]
 }
